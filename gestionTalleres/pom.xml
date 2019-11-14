@@ -5,7 +5,7 @@
       
   <groupId>com.calatravaWare.ISO2</groupId>
       
-  <artifactId>gestionTalleres</artifactId>
+  <artifactId>GestionTalleres</artifactId>
       
   <version>1.0</version>
       
@@ -29,7 +29,7 @@
       
   <build>
             
-    <finalName>gestionTalleres</finalName>
+    <finalName>GestionTalleres</finalName>
         
   </build>
       
@@ -45,7 +45,7 @@
   
   <modules>
       
-    <module>gestionTalleres_JAR</module>
+    <module>GestionTalleres_JAR</module>
       
   </modules>
 </project>
