@@ -1,1 +1,10 @@
+com/calatravaWare/ISO2/Vista/UI_Reservas.class
+com/calatravaWare/ISO2/Modelo/Persona.class
+com/calatravaWare/ISO2/Modelo/Mecanico.class
+com/calatravaWare/ISO2/Modelo/Estado.class
+com/calatravaWare/ISO2/Modelo/Cliente.class
+com/calatravaWare/ISO2/Modelo/JefeTaller.class
+com/calatravaWare/ISO2/Modelo/Taller.class
 com/calatravaWare/ISO2/App.class
+com/calatravaWare/ISO2/Modelo/Reserva.class
+com/calatravaWare/ISO2/Modelo/Box.class
