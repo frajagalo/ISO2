@@ -26,5 +26,4 @@ public class Cliente extends Persona {
 	public void setMatricula(String Matricula) {
 		this.Matricula = Matricula;
 	}
-
 }
