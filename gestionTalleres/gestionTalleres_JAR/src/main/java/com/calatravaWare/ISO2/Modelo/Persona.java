@@ -1,4 +1,4 @@
-package com.calatravaWare.ISO2.Modelo;
+﻿package com.calatravaWare.ISO2.Modelo;
 
 public class Persona {
 
@@ -74,5 +74,6 @@ public class Persona {
 	public void setIBAN(int IBAN) {
 		this.IBAN = IBAN;
 	}
+	// modificacion clase persona
 
 }
