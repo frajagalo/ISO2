@@ -1,5 +1,6 @@
 package com.calatravaWare.ISO2.Modelo;
 
+ /*Esta es la clase mécanico*/
 public class Mecanico extends Persona {
 
 	private int boxAsignado;
