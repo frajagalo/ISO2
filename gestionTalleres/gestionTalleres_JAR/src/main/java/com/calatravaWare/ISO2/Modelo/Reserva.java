@@ -111,5 +111,8 @@ public class Reserva {
 		// TODO - implement Reserva.hacerReserva
 		throw new UnsupportedOperationException();
 	}
+	public int cancelarCita(){
+		throw new UnsupportedOperationException();
+	}
 
 }
