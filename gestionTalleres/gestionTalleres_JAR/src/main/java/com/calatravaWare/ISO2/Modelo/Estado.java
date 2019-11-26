@@ -1,5 +1,5 @@
 package com.calatravaWare.ISO2.Modelo;
-/* Clase estado*/
+/* Esta es la clase estado*/
 public enum Estado {
 	Libre,
 	Reservada,
