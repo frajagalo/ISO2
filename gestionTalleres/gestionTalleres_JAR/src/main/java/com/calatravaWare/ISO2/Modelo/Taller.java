@@ -1,4 +1,4 @@
-package com.calatravaWare.ISO2.Modelo;
+﻿package com.calatravaWare.ISO2.Modelo;
 
 public class Taller {
 
@@ -34,7 +34,7 @@ public class Taller {
 	public int getTelefono() {
 		return this.Telefono;
 	}
-
+	/* Cambio en la clase Taller */
 	public void setTelefono(int Telefono) {
 		this.Telefono = Telefono;
 	}
